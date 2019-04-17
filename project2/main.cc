@@ -1,5 +1,5 @@
 #include <iostream>
-#include "./shopping.h"
+#include "project2/shopping.h"
 
 int main(int argc, char* argv[]) {
   Goods goods1;
